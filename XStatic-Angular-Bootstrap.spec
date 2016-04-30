@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Angular-Bootstrap
 Version  : 0.11.0.2
-Release  : 10
+Release  : 11
 URL      : https://pypi.python.org/packages/source/X/XStatic-Angular-Bootstrap/XStatic-Angular-Bootstrap-0.11.0.2.tar.gz
 Source0  : https://pypi.python.org/packages/source/X/XStatic-Angular-Bootstrap/XStatic-Angular-Bootstrap-0.11.0.2.tar.gz
 Summary  : Angular-Bootstrap 0.11.0 (XStatic packaging standard)
