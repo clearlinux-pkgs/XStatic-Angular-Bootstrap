@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Angular-Bootstrap
 Version  : 0.11.0.8
-Release  : 14
+Release  : 15
 URL      : http://pypi.debian.net/XStatic-Angular-Bootstrap/XStatic-Angular-Bootstrap-0.11.0.8.tar.gz
 Source0  : http://pypi.debian.net/XStatic-Angular-Bootstrap/XStatic-Angular-Bootstrap-0.11.0.8.tar.gz
 Summary  : XStatic-Angular-Bootstrap
